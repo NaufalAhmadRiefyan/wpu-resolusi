@@ -4,6 +4,7 @@ RENCANA KONTEN
 *Angular
 *Framework JS
   *Vue JS
+  *Angular
 -php
   * Laravel
 - Struktur Data Fundamental 
