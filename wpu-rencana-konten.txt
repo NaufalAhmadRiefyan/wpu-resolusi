@@ -1,7 +1,7 @@
 RENCANA KONTEN
 
 -javascript
-*ES6
+*Angular
 *Framework JS
 -php
 - Struktur Data Fundamental 
