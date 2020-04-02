@@ -1,0 +1,6 @@
+RENCANA KONTEN
+
+-javascript
+*ES6
+*Framework JS
+-php
