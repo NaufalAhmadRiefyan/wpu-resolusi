@@ -1,9 +1,10 @@
 RENCANA KONTEN
 
 -javascript
-*ES6
+*Angular
 *Framework JS
   *Vue JS
 -php
-  *Laravel
+  * Laravel
+- Struktur Data Fundamental 
 
