@@ -3,5 +3,7 @@ RENCANA KONTEN
 -javascript
 *ES6
 *Framework JS
+  *Vue JS
 -php
-- Struktur Data Fundamental 
+  *Laravel
+
