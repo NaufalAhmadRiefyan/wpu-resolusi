@@ -3,6 +3,8 @@ RENCANA KONTEN
 -javascript
 *Angular
 *Framework JS
+  *Vue JS
 -php
   * Laravel
 - Struktur Data Fundamental 
+
