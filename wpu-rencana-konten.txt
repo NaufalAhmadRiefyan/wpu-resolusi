@@ -4,3 +4,4 @@ RENCANA KONTEN
 *ES6
 *Framework JS
 -php
+- Struktur Data Fundamental 
